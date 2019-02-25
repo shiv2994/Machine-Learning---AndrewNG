@@ -1,4 +1,5 @@
-Course : Machine Learning 		Offered By : Stanford
+Course : Machine Learning
+Offered By : Stanford
 
 This repository contains my solutions to the assignments to course, linked below.
 
